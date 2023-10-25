@@ -1,0 +1,31 @@
+﻿body {
+    background-color: #181E3B;
+    font-family: Helvetica;
+    color: white;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    max-width: 300px;
+    margin: 20px auto;
+}
+
+li {
+    min-height: 20px;
+    text-align: left;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+    li button {
+        float: right;
+        margin: 0px 1px;
+    }
+
+.checked {
+    text-decoration: line-through;
+    color: #808080;
+}

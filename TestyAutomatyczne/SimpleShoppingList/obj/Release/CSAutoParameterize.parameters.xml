@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="SimpleShoppingListContext-Web.config Connection String" description="SimpleShoppingListContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=SimpleShoppingListContext-20170807195018; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|SimpleShoppingListContext-20170807195018.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Bajek\\Downloads\\Zaliczenie\ ASP\.NET\\SimpleShoppingList\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SimpleShoppingListContext']/@connectionString" />
+  </parameter>
+</parameters>

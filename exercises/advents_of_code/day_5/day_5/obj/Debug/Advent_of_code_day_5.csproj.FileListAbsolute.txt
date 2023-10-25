@@ -1,0 +1,7 @@
+C:\Users\Blaise\source\repos\Advent_of_code_2017\Advent_of_code_day_5\Advent_of_code_day_5\bin\Debug\Advent_of_code_day_5.exe.config
+C:\Users\Blaise\source\repos\Advent_of_code_2017\Advent_of_code_day_5\Advent_of_code_day_5\bin\Debug\Advent_of_code_day_5.exe
+C:\Users\Blaise\source\repos\Advent_of_code_2017\Advent_of_code_day_5\Advent_of_code_day_5\bin\Debug\Advent_of_code_day_5.pdb
+C:\Users\Blaise\source\repos\Advent_of_code_2017\Advent_of_code_day_5\Advent_of_code_day_5\obj\Debug\Advent_of_code_day_5.csprojResolveAssemblyReference.cache
+C:\Users\Blaise\source\repos\Advent_of_code_2017\Advent_of_code_day_5\Advent_of_code_day_5\obj\Debug\Advent_of_code_day_5.csproj.CoreCompileInputs.cache
+C:\Users\Blaise\source\repos\Advent_of_code_2017\Advent_of_code_day_5\Advent_of_code_day_5\obj\Debug\Advent_of_code_day_5.exe
+C:\Users\Blaise\source\repos\Advent_of_code_2017\Advent_of_code_day_5\Advent_of_code_day_5\obj\Debug\Advent_of_code_day_5.pdb

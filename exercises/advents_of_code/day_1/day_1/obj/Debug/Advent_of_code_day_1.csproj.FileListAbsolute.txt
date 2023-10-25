@@ -1,0 +1,14 @@
+C:\Users\Blaise\source\repos\Advent_of_code_day_1\Advent_of_code_day_1\obj\Debug\Advent_of_code_day_1.csprojResolveAssemblyReference.cache
+C:\Users\Blaise\source\repos\Advent_of_code_day_1\Advent_of_code_day_1\obj\Debug\Advent_of_code_day_1.csproj.CoreCompileInputs.cache
+C:\Users\Blaise\source\repos\Advent_of_code_day_1\Advent_of_code_day_1\bin\Debug\Advent_of_code_day_1.exe.config
+C:\Users\Blaise\source\repos\Advent_of_code_day_1\Advent_of_code_day_1\bin\Debug\Advent_of_code_day_1.exe
+C:\Users\Blaise\source\repos\Advent_of_code_day_1\Advent_of_code_day_1\bin\Debug\Advent_of_code_day_1.pdb
+C:\Users\Blaise\source\repos\Advent_of_code_day_1\Advent_of_code_day_1\obj\Debug\Advent_of_code_day_1.exe
+C:\Users\Blaise\source\repos\Advent_of_code_day_1\Advent_of_code_day_1\obj\Debug\Advent_of_code_day_1.pdb
+C:\Users\Blaise\source\repos\Advent_of_code_2017\Advent_of_code_day_1\Advent_of_code_day_1\bin\Debug\Advent_of_code_day_1.exe.config
+C:\Users\Blaise\source\repos\Advent_of_code_2017\Advent_of_code_day_1\Advent_of_code_day_1\bin\Debug\Advent_of_code_day_1.exe
+C:\Users\Blaise\source\repos\Advent_of_code_2017\Advent_of_code_day_1\Advent_of_code_day_1\bin\Debug\Advent_of_code_day_1.pdb
+C:\Users\Blaise\source\repos\Advent_of_code_2017\Advent_of_code_day_1\Advent_of_code_day_1\obj\Debug\Advent_of_code_day_1.csprojResolveAssemblyReference.cache
+C:\Users\Blaise\source\repos\Advent_of_code_2017\Advent_of_code_day_1\Advent_of_code_day_1\obj\Debug\Advent_of_code_day_1.csproj.CoreCompileInputs.cache
+C:\Users\Blaise\source\repos\Advent_of_code_2017\Advent_of_code_day_1\Advent_of_code_day_1\obj\Debug\Advent_of_code_day_1.exe
+C:\Users\Blaise\source\repos\Advent_of_code_2017\Advent_of_code_day_1\Advent_of_code_day_1\obj\Debug\Advent_of_code_day_1.pdb

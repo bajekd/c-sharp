@@ -1,0 +1,14 @@
+C:\Users\Blaise\source\repos\Adventure_of_code_day3\Adventure_of_code_day3\obj\Debug\Adventure_of_code_day3.csprojResolveAssemblyReference.cache
+C:\Users\Blaise\source\repos\Adventure_of_code_day3\Adventure_of_code_day3\obj\Debug\Adventure_of_code_day3.csproj.CoreCompileInputs.cache
+C:\Users\Blaise\source\repos\Adventure_of_code_day3\Adventure_of_code_day3\bin\Debug\Adventure_of_code_day3.exe.config
+C:\Users\Blaise\source\repos\Adventure_of_code_day3\Adventure_of_code_day3\bin\Debug\Adventure_of_code_day3.exe
+C:\Users\Blaise\source\repos\Adventure_of_code_day3\Adventure_of_code_day3\bin\Debug\Adventure_of_code_day3.pdb
+C:\Users\Blaise\source\repos\Adventure_of_code_day3\Adventure_of_code_day3\obj\Debug\Adventure_of_code_day3.exe
+C:\Users\Blaise\source\repos\Adventure_of_code_day3\Adventure_of_code_day3\obj\Debug\Adventure_of_code_day3.pdb
+C:\Users\Blaise\source\repos\Adventure_of_code_day_3\Adventure_of_code_day3\bin\Debug\Adventure_of_code_day3.exe.config
+C:\Users\Blaise\source\repos\Adventure_of_code_day_3\Adventure_of_code_day3\bin\Debug\Adventure_of_code_day3.exe
+C:\Users\Blaise\source\repos\Adventure_of_code_day_3\Adventure_of_code_day3\bin\Debug\Adventure_of_code_day3.pdb
+C:\Users\Blaise\source\repos\Adventure_of_code_day_3\Adventure_of_code_day3\obj\Debug\Adventure_of_code_day3.csprojResolveAssemblyReference.cache
+C:\Users\Blaise\source\repos\Adventure_of_code_day_3\Adventure_of_code_day3\obj\Debug\Adventure_of_code_day3.csproj.CoreCompileInputs.cache
+C:\Users\Blaise\source\repos\Adventure_of_code_day_3\Adventure_of_code_day3\obj\Debug\Adventure_of_code_day3.exe
+C:\Users\Blaise\source\repos\Adventure_of_code_day_3\Adventure_of_code_day3\obj\Debug\Adventure_of_code_day3.pdb

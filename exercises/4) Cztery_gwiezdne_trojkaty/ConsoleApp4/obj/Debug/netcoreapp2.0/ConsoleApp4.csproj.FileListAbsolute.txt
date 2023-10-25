@@ -1,0 +1,21 @@
+C:\Users\Blaise\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.deps.json
+C:\Users\Blaise\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.runtimeconfig.json
+C:\Users\Blaise\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.runtimeconfig.dev.json
+C:\Users\Blaise\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.dll
+C:\Users\Blaise\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.pdb
+C:\Users\Blaise\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Blaise\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\Blaise\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\Blaise\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.dll
+C:\Users\Blaise\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.pdb
+C:\Users\Blaise\source\repos\4) Cztery_gwiezdne_trojkaty\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.deps.json
+C:\Users\Blaise\source\repos\4) Cztery_gwiezdne_trojkaty\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.runtimeconfig.json
+C:\Users\Blaise\source\repos\4) Cztery_gwiezdne_trojkaty\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.runtimeconfig.dev.json
+C:\Users\Blaise\source\repos\4) Cztery_gwiezdne_trojkaty\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.dll
+C:\Users\Blaise\source\repos\4) Cztery_gwiezdne_trojkaty\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.pdb
+C:\Users\Blaise\source\repos\4) Cztery_gwiezdne_trojkaty\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.csprojResolveAssemblyReference.cache
+C:\Users\Blaise\source\repos\4) Cztery_gwiezdne_trojkaty\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Blaise\source\repos\4) Cztery_gwiezdne_trojkaty\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\Blaise\source\repos\4) Cztery_gwiezdne_trojkaty\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\Blaise\source\repos\4) Cztery_gwiezdne_trojkaty\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.dll
+C:\Users\Blaise\source\repos\4) Cztery_gwiezdne_trojkaty\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.pdb

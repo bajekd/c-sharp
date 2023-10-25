@@ -1,0 +1,14 @@
+C:\Users\Blaise\source\repos\Adent_of_code_day_2\Adent_of_code_2\obj\Debug\Adent_of_code_2.csprojResolveAssemblyReference.cache
+C:\Users\Blaise\source\repos\Adent_of_code_day_2\Adent_of_code_2\obj\Debug\Adent_of_code_2.csproj.CoreCompileInputs.cache
+C:\Users\Blaise\source\repos\Adent_of_code_day_2\Adent_of_code_2\bin\Debug\Adent_of_code_2.exe.config
+C:\Users\Blaise\source\repos\Adent_of_code_day_2\Adent_of_code_2\bin\Debug\Adent_of_code_2.exe
+C:\Users\Blaise\source\repos\Adent_of_code_day_2\Adent_of_code_2\bin\Debug\Adent_of_code_2.pdb
+C:\Users\Blaise\source\repos\Adent_of_code_day_2\Adent_of_code_2\obj\Debug\Adent_of_code_2.exe
+C:\Users\Blaise\source\repos\Adent_of_code_day_2\Adent_of_code_2\obj\Debug\Adent_of_code_2.pdb
+C:\Users\Blaise\source\repos\Advent_of_code_day_2\Adent_of_code_2\bin\Debug\Adent_of_code_2.exe.config
+C:\Users\Blaise\source\repos\Advent_of_code_day_2\Adent_of_code_2\bin\Debug\Adent_of_code_2.exe
+C:\Users\Blaise\source\repos\Advent_of_code_day_2\Adent_of_code_2\bin\Debug\Adent_of_code_2.pdb
+C:\Users\Blaise\source\repos\Advent_of_code_day_2\Adent_of_code_2\obj\Debug\Adent_of_code_2.csprojResolveAssemblyReference.cache
+C:\Users\Blaise\source\repos\Advent_of_code_day_2\Adent_of_code_2\obj\Debug\Adent_of_code_2.csproj.CoreCompileInputs.cache
+C:\Users\Blaise\source\repos\Advent_of_code_day_2\Adent_of_code_2\obj\Debug\Adent_of_code_2.exe
+C:\Users\Blaise\source\repos\Advent_of_code_day_2\Adent_of_code_2\obj\Debug\Adent_of_code_2.pdb

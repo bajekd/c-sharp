@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroup')]/providers/Microsoft.Sql/servers/testy-automatyczne/databases/testy-automatyczne",
+      "type": "mssql.azure",
+      "connectionId": "testy_automatyczne",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\csc.exe
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\csc.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\csc.rsp
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\csi.exe
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\csi.rsp
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\System.AppContext.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\System.Collections.Immutable.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\System.IO.FileSystem.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\vbc.exe
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\vbc.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\vbc.rsp
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\VBCSCompiler.exe
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\roslyn\VBCSCompiler.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\SimpleShoppingList.dll.config
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\SimpleShoppingList.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\SimpleShoppingList.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\System.Net.Http.Formatting.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\System.Web.Http.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\System.Web.Http.WebHost.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\System.Net.Http.Formatting.xml
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\System.Web.Http.xml
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\System.Web.Http.WebHost.xml
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\obj\Debug\SimpleShoppingList.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\obj\Debug\SimpleShoppingList.dll
+c:\users\administrator\documents\visual studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\obj\Debug\SimpleShoppingList.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\obj\Debug\SimpleShoppingList.Migrations.Initial.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\SimpleShoppingList\SimpleShoppingList\obj\Debug\SimpleShoppingList.csproj.GenerateResource.Cache
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\csc.exe
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\csc.exe.config
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\csc.rsp
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\csi.exe
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\csi.rsp
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\System.AppContext.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\vbc.exe
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\vbc.exe.config
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\vbc.rsp
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\SimpleShoppingList.dll.config
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\SimpleShoppingList.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\SimpleShoppingList.pdb
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\EntityFramework.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\EntityFramework.SqlServer.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\Newtonsoft.Json.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\System.Net.Http.Formatting.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\System.Web.Http.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\System.Web.Http.WebHost.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\EntityFramework.xml
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\EntityFramework.SqlServer.xml
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\Newtonsoft.Json.xml
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\System.Net.Http.Formatting.xml
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\System.Web.Http.xml
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\bin\System.Web.Http.WebHost.xml
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\obj\Debug\SimpleShoppingList.csprojAssemblyReference.cache
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\obj\Debug\SimpleShoppingList.Migrations.Initial.resources
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\obj\Debug\SimpleShoppingList.csproj.GenerateResource.cache
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\obj\Debug\SimpleShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\obj\Debug\SimpleShoppingList.csproj.CopyComplete
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\obj\Debug\SimpleShoppingList.dll
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\obj\Debug\SimpleShoppingList.pdb
+C:\Users\Bajek\Downloads\SimpleShoppingList\SimpleShoppingList\obj\Debug\SimpleShoppingList.Migrations.Final.resources
